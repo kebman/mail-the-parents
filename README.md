@@ -8,11 +8,11 @@ Write the message *once* and send it to everyone, complete with names and dates.
 
 ## Prerequisites
 
-You'll of course need an installation of Perl, and you'll need to do some very simple edits in a text editor to get this script to work. Any text editor will do as long as it stores plain text.
+**Perl:** You'll of course need an installation of Perl, and you'll need to do some very simple edits in a text editor to get this script to work. Any text editor will do as long as it stores plain text.
 
-While you do not need to know Perl directly, you'll have to be unafraid of making edits within the code such as changing the message body stored within the code, or changing a filename or two.
+**No Fear:** While you do not need to know Perl directly, you'll have to be unafraid of making edits within the code such as changing the message body stored within the code, or changing a filename or two.
 
-You'll also need to know how to edit a comma separated list of ID's, names and addresses. Don't worry, it's not hard. You make a list, and then separate each entry with a comma and save it... (D'oh!) 
+**Address Lists:** You'll also need to know how to edit a comma separated list of ID's, names and addresses. Don't worry, it's not hard. You make a list, and then separate each entry with a comma and save it... (D'oh!) 
 
 Note: In the code herein a semi-colon is used instead of a comma, since the semi-colon is less common than the comma. There are also a few quirks as to how names have to be stored in the lists, but I'll get back to that in the user guide.
 
