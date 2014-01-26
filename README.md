@@ -10,7 +10,7 @@ Write the message *once* and send it to everyone, complete with names and dates.
 
 **Perl:** You'll of course need an installation of Perl, and you'll need to do some very simple edits in a text editor to get this script to work. Any text editor will do as long as it stores plain text.
 
-**No Fear:** While you do not need to know Perl directly, you'll have to be unafraid of making edits within the code such as changing the message body stored within the code, or changing a filename or two.
+**No Fear:** While you do not need to know Perl directly, you'll have to be unafraid of making edits within the code such as changing the message body, or changing a filename or two.
 
 **Address Lists:** You'll also need to know how to edit a list of ID's, names and addresses. You then save the list in what's known as a CSV file. More on that further down.
 
