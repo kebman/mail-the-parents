@@ -17,7 +17,7 @@ Write the message *once* and send it to everyone, complete with names and dates.
 
 ## Files Needed
 
-To run the code, you'll of course need the Perl script itself. Additionally you also need three CSV files, so called 'comma separated lits' with ID's, names and addresses. 
+To run the code, you'll of course need the Perl script itself. Additionally you also need three CSV files, so called 'comma separated lists' with ID's, names and addresses. 
 
 *Note: While such lists are usually separated each entry with a comma, in the code herein all entries are separated with a semi-colon instead. The reason for this is becayse commas are already used in the lists for other purposes, and also because the semi-colon i smuch less common than commas.*
 
