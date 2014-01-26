@@ -12,22 +12,23 @@ Write the message *once* and send it to everyone, complete with names and dates.
 
 **No Fear:** While you do not need to know Perl directly, you'll have to be unafraid of making edits within the code such as changing the message body stored within the code, or changing a filename or two.
 
-**Address Lists:** You'll also need to know how to edit a comma separated list of ID's, names and addresses. Don't worry, it's not hard. You make a list, and then separate each entry with a comma and save it... (D'oh!) 
-
-Note: In the code herein a semi-colon is used instead of a comma, since the semi-colon is less common than the comma. There are also a few quirks as to how names have to be stored in the lists, but I'll get back to that in the user guide.
+**Address Lists:** You'll also need to know how to edit a list of ID's, names and addresses. You then save the list in what's known as a CSV file. More on that further down.
 
 
-### Extra Files Needed
+## Files Needed
 
-You'll need three files with comma separated lists to make this work:
+To run the code, you of course need the Perl script. Additionally you also need three CSV files, so called 'comma separated lits'. 
+
+*Note: While such lists usually separate each entry with a comma, in the code herein all entries are separated with a semi-colon instead. The reason for this is since commas are already used in the lists for other purposes, and not least because the semi-colon i smuch less common than commas.*
+
+Don't worry. Example files are shipped with the code. Just edit them as needed.
+
+
+### Overview of Example Files
 
 1. Names and addresses of the pupils, including a line ID for each pupil (1, 2, 3, etc).
 2. Names and addresses of the parents, with a reference to the ID of their offspring.
 3. Optional: Dates and times for the meeting, also with a reference to the ID of the pupil in question.
-
-Note: The code herein separates each entry with semi-colons instead of commas, as the semi-colon a much less common character.
-
-Don't worry. Example files are shipped with the code. Just edit them as needed.
 
 
 ## Important
