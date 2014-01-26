@@ -1,7 +1,7 @@
 Mail The Parents 1.0
 ====================
 
-A Perl script that automates the sending of letters to all the parents of a class of pupils. 
+A free Perl script that automates the sending of letters to all the parents of a class of pupils. 
 
 Write the message *once* and send it to everyone, complete with names and dates.
 
