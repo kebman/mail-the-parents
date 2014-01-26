@@ -17,18 +17,18 @@ Write the message *once* and send it to everyone, complete with names and dates.
 
 ## Files Needed
 
-To run the code, you of course need the Perl script. Additionally you also need three CSV files, so called 'comma separated lits'. 
+To run the code, you of course need the Perl script itself. Additionally you also need three CSV files, so called 'comma separated lits' with ID's, names and addresses. 
 
-*Note: While such lists usually separate each entry with a comma, in the code herein all entries are separated with a semi-colon instead. The reason for this is since commas are already used in the lists for other purposes, and not least because the semi-colon i smuch less common than commas.*
+*Note: While such lists are usually separated each entry with a comma, in the code herein all entries are separated with a semi-colon instead. The reason for this is becayse commas are already used in the lists for other purposes, and also because the semi-colon i smuch less common than commas.*
 
 Don't worry. Example files are shipped with the code. Just edit them as needed.
 
 
-### Overview of Example Files
+### Overview of Needed Lists
 
-1. Names and addresses of the pupils, including a line ID for each pupil (1, 2, 3, etc).
-2. Names and addresses of the parents, with a reference to the ID of their offspring.
-3. Optional: Dates and times for the meeting, also with a reference to the ID of the pupil in question.
+1. **pupil.csv**: Names and addresses of the pupils, including a line ID for each pupil (1, 2, 3, etc).
+2. **parents.csv**: Names and addresses of the parents, with a reference to the ID of their offspring.
+3. **dates.csv**: Optional dates and times for the meeting, also with a reference to the ID of the pupil in question.
 
 
 ## Important
